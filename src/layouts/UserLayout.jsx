@@ -92,7 +92,7 @@ const UserLayout = ({ children }) => {
             </button>
             <div className="user-profile">
               <img src="/default-avatar.png" alt="User" />
-              <span>John Doe</span>
+              <span>User</span>
             </div>
           </div>
         </header>
